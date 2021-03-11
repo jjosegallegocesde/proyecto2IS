@@ -1,0 +1,31 @@
+p{
+
+    font-size: 20px;
+    font-family: 'DotGothic16', sans-serif;
+    color: white;
+
+}
+
+.parrafoMain{
+    font-size:30px;
+    color:blue;
+}
+
+.fondoparrafo{
+    background-color: red;
+}
+
+.parrafoAmarillo{
+    color:yellowgreen;
+}
+
+footer{
+    background-color:black;
+}
+
+
+header{
+    background-color: #6E7071;
+    color:white;
+}
+
